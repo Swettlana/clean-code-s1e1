@@ -21,7 +21,7 @@ input,button {
   display: block;
   text-align: right;
 }
-.todo-matrix img {
+.todo-matrix-image {
   width: 100%;
 }
 .todo-matrix .add-info {
