@@ -145,8 +145,7 @@ button {
 }
 
 /* Completed */
-.tasks_completed .task-item__label,
-.task_completed .task-item__input_text {
+.tasks_completed .task-item__label {
   text-decoration: line-through;
   color: #888;
 }
