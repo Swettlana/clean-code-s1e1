@@ -29,8 +29,9 @@ input,button{
 }
 
 @media (max-width:768px) {
-.todo-matrix { text-align: center;
-}
+  .todo-matrix { 
+    text-align: center;
+  }
 }
 .main-element {
   display: block;
